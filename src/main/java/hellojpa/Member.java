@@ -13,8 +13,8 @@ public class Member {
     public Member() {
     }
 
-    public Member(Long id, String name){
-        this.id = id;
+    public Member(Long id, String name) {
+        this.id = id1;
         this.name = name;
     }
 
